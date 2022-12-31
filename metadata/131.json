@@ -1,0 +1,36 @@
+{
+  "name": "Frogs #131",
+  "description": "666 Unique Frogs staying on blockchain.",
+  "image": "ipfs://QmVzXdA5GN9zp36vPYGMVJ56FSuY8BWCeN1a9kv9WDk8c9/131.png",
+  "artist": "@imzensuke",
+  "attributes": [
+    {
+      "trait_type": "Backgroud",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking Base Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}
