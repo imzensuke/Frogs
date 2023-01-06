@@ -1,0 +1,34 @@
+{
+  "name": "Frogs #408",
+  "description": "666 Unique Frogs staying on blockchain.",  "image": "ipfs://QmVzXdA5GN9zp36vPYGMVJ56FSuY8BWCeN1a9kv9WDk8c9/408.png",
+  "attributes": [
+    {
+      "trait_type": "Backgroud",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink Hoddie"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Rainbow Necklace"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking Diamond Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stylish Gold Glasses"
+    }
+  ]
+}
