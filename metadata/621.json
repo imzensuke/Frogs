@@ -1,0 +1,34 @@
+{
+  "name": "Frogs #621",
+  "description": "666 Unique Frogs staying on blockchain.",  "image": "ipfs://QmVzXdA5GN9zp36vPYGMVJ56FSuY8BWCeN1a9kv9WDk8c9/621.png",
+  "attributes": [
+    {
+      "trait_type": "Backgroud",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skin Purple Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crimson Hoddie"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Topaz necklace"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Fedora Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    }
+  ]
+}
